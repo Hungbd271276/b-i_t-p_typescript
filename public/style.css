@@ -1,0 +1,21 @@
+.image {
+    width: 160px;
+    height: 80px;
+    background-color: #F8F8FF;
+    box-shadow: 2px 2px 2px 2px #888888;
+}
+#app{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.pokemon{
+    margin: 15px;
+}
+
+.image img{
+    width: 60px;
+    height: 60px;
+    padding: 8px 50px;
+}
+    
